@@ -1,1 +1,13 @@
+Employee Details Project
+Overview
+This project consists of a simple web application to display employee information in a tabular format with a 
+detailed view for each employee. The application uses HTML, CSS, and JavaScript to present the data and handle 
+interactions.
 
+Structure
+The project contains the following files:
+
+index.html: The main page displaying the list of employees in a table.
+employeeDetails.html: The detailed view page for a selected employee.
+Styles.css: The CSS file for styling the main page.
+Script.js: The JavaScript file for handling the data passed to the detailed view page.
